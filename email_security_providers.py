@@ -37,7 +37,7 @@ email_provider_domains = {
     'mailhop.us': 'DuoCircle',
     'mbox.net': 'BAE Systems',
     'mcafee.com': 'Mcafee',
-    'messagelabs.com': 'Symmantec',
+    'messagelabs.com': 'Symantec',
     'mimecast-offshore.com': 'Mimecast',
     'mimecast.co.za': 'Mimecast',
     'mimecast.com': 'Mimecast',
@@ -95,6 +95,7 @@ email_provider_domains = {
     'mailinblack.com': 'Mail in Black',
     'scanscope.net': 'Censornet',
     'emailservice.io': 'Mailprotector',
+    'cscdns.net': 'CSC Digital Brand Services',
 }
 
 email_provider_asns = {
@@ -125,9 +126,9 @@ email_provider_asns = {
     'Kaspersky Lab AO': 'Kaspersky',
     'MCAFEE': 'Mcafee',
     'McAfee, Inc.': 'Mcafee',
-    'MessageLabs Inc.': 'Symmantec',
-    'Messagelabs Limited': 'Symmantec',
-    'Messagelabs-AS': 'Symmantec',
+    'MessageLabs Inc.': 'Symantec',
+    'Messagelabs Limited': 'Symantec',
+    'Messagelabs-AS': 'Symantec',
     'Mimecast Australia Pty Ltd': 'Mimecast',
     'Mimecast North America Inc': 'Mimecast',
     'Mimecast Services Limited': 'Mimecast',
