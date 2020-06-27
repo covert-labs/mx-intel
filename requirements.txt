@@ -1,0 +1,14 @@
+cachetools==4.1.0
+geoip2==3.0.0
+matplotlib==3.2.1
+maxminddb==1.5.4
+numpy==1.18.4
+pandas==1.0.3
+requests==2.23.0
+seaborn==0.10.1
+tldextract==2.2.2
+ipython==7.14.0
+notebook==6.0.3
+textdistance==4.2.0
+pyarrow==0.17.1
+
