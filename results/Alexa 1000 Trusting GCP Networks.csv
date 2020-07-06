@@ -1,5 +1,5 @@
 domain,gcp_networks_size,gcp_network_labels,includes
-urbandictionary.com,22,"['Google Cloud (us-east1)', 'Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)']","['spf.messagingengine.com', 'servers.mcsv.net', 'helpscoutemail.com', 'shops.shopify.com']"
-crunchyroll.com,22,"['Google Cloud (us-east1)', 'Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)']","['servers.mcsv.net', 'amazonses.com', '_spf.google.com', 'sendgrid.net', 'spf.mandrillapp.com', 'stspg-customer.com', 'shops.shopify.com']"
-9gag.com,22,"['Google Cloud (us-east1)', 'Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)']","['servers.mcsv.net', 'spf2.jotform.com', '_spf.google.com', 'spf1.jotform.com', 'sendgrid.net', 'shops.shopify.com']"
-bellesa.co,22,"['Google Cloud (us-east1)', 'Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)']","['servers.mcsv.net', 'spf.protection.outlook.com', 'shops.shopify.com']"
+urbandictionary.com,22,"['Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)', 'Google Cloud (us-east1)']","['spf.messagingengine.com', 'servers.mcsv.net', 'helpscoutemail.com', 'shops.shopify.com']"
+crunchyroll.com,22,"['Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)', 'Google Cloud (us-east1)']","['servers.mcsv.net', 'amazonses.com', '_spf.google.com', 'sendgrid.net', 'spf.mandrillapp.com', 'stspg-customer.com', 'shops.shopify.com']"
+9gag.com,22,"['Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)', 'Google Cloud (us-east1)']","['servers.mcsv.net', 'spf2.jotform.com', '_spf.google.com', 'spf1.jotform.com', 'sendgrid.net', 'shops.shopify.com']"
+bellesa.co,22,"['Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)', 'Google Cloud (us-east1)']","['servers.mcsv.net', 'spf.protection.outlook.com', 'shops.shopify.com']"

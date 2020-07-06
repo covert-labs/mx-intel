@@ -74,9 +74,9 @@ marathonpetroleum.com,Proofpoint,"protection.outlook.com,spf-002c4401.pphosted.c
 utc.com,Proofpoint,"es._spf.adp.com,_spf.salesforce.com,spf.rtx.com,spf.smtp2go.com,spf-00105401.pphosted.com"
 dupont.com,Proofpoint,"_spf.salesforce.com,_netblocks.eloqua.com,spf.protection.outlook.com,spf-001dcd02.pphosted.com"
 halliburton.com,Proofpoint,spf-0000bf01.pphosted.com
-cigna.com,"Retarus,Proofpoint","_spf.cigna.com,_spf05.cigna.com,_spf09.cigna.com,_spf10.cigna.com,_spf04.cigna.com,_spf06.cigna.com,_spf02.cigna.com,_spf03.cigna.com"
+cigna.com,"Proofpoint,Retarus","_spf.cigna.com,_spf05.cigna.com,_spf09.cigna.com,_spf10.cigna.com,_spf04.cigna.com,_spf06.cigna.com,_spf02.cigna.com,_spf03.cigna.com"
 humana.com,Symantec,"spf_b.humana.com,spf_a.humana.com,nets1.spf.messagelabs.com,spf.humana.com,nets2.spf.messagelabs.com"
 valero.com,Symantec,spf.messagelabs.com
 safeway.com,Symantec,"nets2.spf.messagelabs.com,nets1.spf.messagelabs.com,_spf-b.safeway.com,_spf-a.safeway.com"
 ford.com,Symantec,"_spf.azell.com,spf.messagelabs.com"
-pg.com,"Symantec,Proofpoint,FireEye","mail.zendesk.com,spf.protection.outlook.com,spf.messagelabs.com,_spf.salesforce.com,amazonses.com,_spf.fireeyecloud.com"
+pg.com,"Symantec,FireEye,Proofpoint","mail.zendesk.com,spf.protection.outlook.com,spf.messagelabs.com,_spf.salesforce.com,amazonses.com,_spf.fireeyecloud.com"
