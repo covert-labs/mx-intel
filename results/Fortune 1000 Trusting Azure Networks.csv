@@ -1,0 +1,8 @@
+domain,azure_networks_size,azure_network_labels,includes
+edgewell.com,3085,"['Azure ', 'Azure AzureFrontDoor']","['spf6.edgewell.com', 'spf2.edgewell.com', 'spf4.edgewell.com', 'spf3.edgewell.com', 'spf1.edgewell.com', 'spf5.edgewell.com']"
+pg.com,32,['Azure '],"['mail.zendesk.com', 'spf.protection.outlook.com', 'spf.messagelabs.com', '_spf.salesforce.com', 'amazonses.com', '_spf.fireeyecloud.com']"
+microsoft.com,17,['Azure '],"['_spf1-meo.microsoft.com', 'spf-a.hotmail.com', '_spf-a.microsoft.com', '_spf-c.microsoft.com', '_spf-b.microsoft.com', '_spf-ssg-a.microsoft.com']"
+caesars.com,13,['Azure '],"['spf-002ece01.pphosted.com', '_spf.salesforce.com', 'authsmtp.com', 'spf.emailsignatures365.com']"
+iff.com,13,['Azure '],"['_spf.salesforce.com', '_netblocks.mimecast.com', 'nw026.com', 'spf.emailsignatures365.com']"
+kbhome.com,13,['Azure '],"['h2partner.com', '_spf.q4press.com', 'spf.emailsignatures365.com']"
+mutualofamerica.com,13,['Azure '],"['spf.protection.outlook.com', 'auth.msgapp.com', 'spf-00073201.pphosted.com', 'spf.emailsignatures365.com']"

@@ -1,0 +1,111 @@
+domain,aws_networks_size,aws_network_labels,includes
+primevideo.com,19795,"['AMAZON (eu-west-1)', 'AMAZON (us-west-2)', 'AMAZON (us-east-1)']","['amazonses.com', 'spf2.amazon.com', 'spf1.amazon.com']"
+imdb.com,19795,"['AMAZON (eu-west-1)', 'AMAZON (us-west-2)', 'AMAZON (us-east-1)']",['amazon.com']
+stackexchange.com,1926,"['EC2 (us-west-2)', 'EC2 (us-east-1)']",['_spf1.stackexchange.com']
+stackoverflow.com,1926,"['EC2 (us-west-2)', 'EC2 (us-east-1)']",['_spf1.stackoverflow.com']
+booking.com,1555,"['EC2 (eu-west-1)', 'EC2 (us-east-1)', 'AMAZON (us-east-1)']","['mail.zendesk.com', 'mailgun.org', '_spf.messagegears.net', 'spf.logicalware.com', 'sendgrid.net', '_spf.booking.com', 'spf-0032a203.pphosted.com']"
+hotels.com,1541,"['EC2 (eu-west-1)', 'EC2 (us-east-1)', 'AMAZON (us-east-1)', 'EC2 (ap-southeast-1)']","['_spf.egencia.com', '_spf.expedia.com', 'musvc.com', '_spf.messagegears.net', 'amazonses.com']"
+zoom.us,1153,"['EC2 (us-west-2)', 'EC2 (us-east-1)', 'AMAZON (us-east-1)']","['servers.mcsv.net', 'amazonses.com', '_spf.google.com', 'spf.mandrillapp.com', 'stspg-customer.com']"
+washingtonpost.com,1077,"['EC2 (eu-west-1)', 'EC2 (us-east-1)', 'AMAZON (us-east-1)']","['amazonses.com', 'spf-001a3c01.pphosted.com', 'spf.protection.outlook.com', 'madgexjb.com']"
+theguardian.com,1075,"['EC2 (eu-west-1)', 'AMAZON (us-east-1)']","['spf_ldx.taleo.net', '_spf1.theguardian.com', 'madgexjb.com', '_spf.salesforce.com', 'amazonses.com', '_spf.google.com']"
+box.com,1058,"['EC2 (us-west-2)', 'EC2 (eu-central-1)', 'AMAZON (us-east-1)']","['spf.dynect.net', 'amazonses.com', '_spf.google.com', 'spf-docusign.box.com', '_spf.q4press.com']"
+paytm.com,1047,"['EC2 (ap-south-1)', 'AMAZON (us-east-1)', 'EC2 (ap-southeast-1)']","['mail.zendesk.com', '_include2.paytm.com', '_spf.salesforce.com', 'email.onedirect.in', '_spf.google.com', 'sendgrid.net', '_include1.paytm.com', 'email-1.peoplestrongalt.com']"
+expedia.com,1043,"['EC2 (eu-west-1)', 'EC2 (us-west-2)', 'EC2 (us-east-2)', 'AMAZON (us-east-1)']","['mail.zendesk.com', '_spf.expedia.com', '_spf.salesforce.com', 'spf.clearslide.com', '_spf.qemailserver.com']"
+nypost.com,1033,"['EC2 (us-west-2)', 'EC2 (us-east-1)', 'EC2 (us-gov-west-1)', 'EC2 (eu-west-1)', 'AMAZON (us-east-1)']","['_spf.psm.knowbe4.com', '_spf.qualtrics.com', '_spf.salesforce.com', 'amazonses.com', '_spf.google.com']"
+pubg.com,1029,"['EC2 (us-gov-west-1)', 'EC2 (us-west-2)', 'AMAZON (us-east-1)']","['_spf.qualtrics.com', 'spf.protection.outlook.com', 'amazonses.com']"
+slack.com,1029,"['EC2 (us-gov-west-1)', 'EC2 (us-west-2)', 'AMAZON (us-east-1)']","['u931175.wl176.sendgrid.net', '_spf.qualtrics.com', 'amazonses.com']"
+souq.com,1029,"['EC2 (eu-west-1)', 'AMAZON (us-east-1)', 'EC2 (us-west-1)']","['google.com', 'amazonses.com']"
+olx.com.br,1028,"['EC2 (sa-east-1)', 'EC2 (us-east-1)', 'AMAZON (us-east-1)']","['spf.dynect.net', 'mail.zendesk.com', 'emailsrvr.com', 'amazonses.com']"
+collegeboard.org,1028,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['_spf.salesforce.com', 'spf.protection.outlook.com', 'amazonses.com', 'spf-004a7c01.pphosted.com']"
+reddit.com,1027,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['_spf.google.com', 'mailgun.org', 'amazonses.com']"
+weather.com,1027,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['spf.mandrillapp.com', '_spf.google.com', 'mktomail.com', 'amazonses.com']"
+duolingo.com,1027,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['mail.zendesk.com', 'servers.mcsv.net', 'amazonses.com', '_spf.google.com', 'aspmx.pardot.com', 'spf.tipalti.com']"
+coupang.com,1027,"['AMAZON (us-east-1)', 'EC2 (us-east-1)', 'EC2 (ap-northeast-2)']","['mail.zendesk.com', 'spf.protection.outlook.com', '_spfblocka.toast.com', '_spfblocka.coupang.com', '_spfblockb.coupang.com', 'mailgun.org', 'amazonses.com', '_spfblockc.toast.com']"
+medium.com,1026,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['mail.zendesk.com', 'third_party.medium.com', 'email.medium.com', 'amazonses.com', '_spf.google.com', 'spf.tipalti.com', 'stspg-customer.com']"
+coursera.org,1026,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['spf.mtasv.net', '_spf.google.com', 'amazonses.com', 'sendgrid.net']"
+coursehero.com,1026,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['_spf.google.com', 'mail.zendesk.com', 'amazonses.com', 'sendgrid.net']"
+myntra.com,1025,"['AMAZON (us-east-1)', 'EC2 (ap-southeast-1)']","['mail.zendesk.com', 'amazonses.com', '_spf.google.com', '_spf1.myntra.com', 'spf.falconide.com']"
+elsevier.com,1025,"['EC2 (eu-west-1)', 'AMAZON (us-east-1)']","['spf.protection.outlook.com', 'rnmk.com', 'spf0.elsevier.com', 'sendgrid.net', 'spf.mandrillapp.com']"
+twitch.tv,1025,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['mail.zendesk.com', '_spf.twitch.tv', 'spf.mtasv.net', 'amazonses.com', '_spf.google.com']"
+dropbox.com,1025,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['mail.zendesk.com', '_spf.salesforce.com', 'mktomail.com', 'amazonses.com', '_spf.google.com']"
+imgur.com,1025,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['_spf.google.com', 'mailgun.org', 'amazonses.com']"
+manoramaonline.com,1025,"['EC2 (eu-west-1)', 'AMAZON (us-east-1)']",['amazonses.com']
+pornhublive.com,1025,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['localspf.streamate.com', 'liveperson.streamate.com', '_spf.google.com', 'amazonses.com']"
+thedailybeast.com,1025,"['EC2 (us-east-1)', 'AMAZON (us-east-1)']","['iac.com', 'spf.mandrillapp.com', 'aspmx.sailthru.com', 'amazonses.com']"
+nexon.com,1025,"['EC2 (ap-northeast-1)', 'AMAZON (us-east-1)']","['_smtp-pool-a.nexon.com', 'spf.protection.outlook.com', '_spf.nexon.com', '_spf2.nexon.com', 'amazonses.com', '_spf1.nexon.com']"
+zee5.com,1024,['AMAZON (us-east-1)'],"['amazonses.com', 'spf.protection.outlook.com', '57427aab.ppspf.net', 'ncapp02.com']"
+canalrcn.com,1024,['AMAZON (us-east-1)'],"['mail.zendesk.com', 'spf.protection.outlook.com', 'amazonses.com']"
+lostfilm.tv,1024,['AMAZON (us-east-1)'],['amazonses.com']
+pixabay.com,1024,['AMAZON (us-east-1)'],"['_spf.google.com', 'amazonses.com']"
+pexels.com,1024,['AMAZON (us-east-1)'],"['mail.zendesk.com', 'mailgun.org', 'amazonses.com', '_spf.google.com', 'sendgrid.net']"
+vice.com,1024,['AMAZON (us-east-1)'],"['_spf-2.vice.com', 'servers.mcsv.net', 'amazonses.com', '_spf.google.com', '_spf-1.vice.com']"
+9gag.com,1024,['AMAZON (us-east-1)'],"['servers.mcsv.net', 'spf2.jotform.com', '_spf.google.com', 'spf1.jotform.com', 'sendgrid.net', 'shops.shopify.com']"
+ign.com,1024,['AMAZON (us-east-1)'],"['_spf.google.com', 'amazonses.com']"
+ultimate-guitar.com,1024,['AMAZON (us-east-1)'],"['icpbounce.com', '_spf.ultimate-guitar.com', 'amazonses.com']"
+hepsiburada.com,1024,['AMAZON (us-east-1)'],"['_spf.kinesissurvey.com', '_spf.google.com']"
+naukri.com,1024,['AMAZON (us-east-1)'],"['infoedge.com', 'spf2.mailgun.org', 'spf1.mailgun.org', 'sendgrid.net']"
+capitalone.com,1024,['AMAZON (us-east-1)'],"['mir.capitalone.com', 'sf2.capitalone.com', 'gspf.capitalone.com', 'gspf2.capitalone.com', 'sf.capitalone.com', 'spf2.capitalone.com', 'spf1.capitalone.com']"
+netflix.com,1024,['AMAZON (us-east-1)'],"['_spf_ipv4.netflix.com', 'servers.mcsv.net', '_spf.google.com', 'amazonses.com']"
+instructure.com,1024,['AMAZON (us-east-1)'],"['mktomail.com', 'amazonses.com', '_spf.google.com', 'spf.mandrillapp.com', '_spf.q4press.com']"
+aminoapps.com,1024,['AMAZON (us-east-1)'],"['_spf.google.com', 'aspmx.googlemail.com', 'amazonses.com']"
+pastebin.com,1024,['AMAZON (us-east-1)'],"['_spf.pastebin.com', 'amazonses.com', 'sendgrid.net']"
+artstation.com,1024,['AMAZON (us-east-1)'],"['servers.mcsv.net', 'smtp.groovehq.com', 'mailgun.org', 'amazonses.com', '_spf.google.com']"
+okta.com,1024,['AMAZON (us-east-1)'],"['_netblocks.google.com', 'mktomail.com', 'amazonses.com', 'us._netblocks.mimecast.com', 'mailsenders.netsuite.com', 'mg-spf.greenhouse.io', '_netblocks3.google.com', '_netblocks2.google.com', 'spf1.okta.com']"
+olx.pl,1024,['AMAZON (us-east-1)'],"['mail.zendesk.com', '_spf.salesforce.com', 'amazonses.com', '_spf.google.com', 'mg-spf.greenhouse.io', '_spf.redlink.pl']"
+autodesk.com,1024,['AMAZON (us-east-1)'],"['spf.protection.outlook.com', '_spf.salesforce.com', 'amazonses.com', 'sendgrid.net', '_spf.centercode.com']"
+bbc.co.uk,1024,['AMAZON (us-east-1)'],"['amazonses.com', 'servers.mcsv.net', 'spf.messagelabs.com', 'sf.sis.bbc.co.uk']"
+foxnews.com,1024,['AMAZON (us-east-1)'],"['mail.zendesk.com', 'servers.mcsv.net', 'spf.protection.outlook.com', 'i9advantage.com', 'amazonses.com']"
+academia.edu,1024,['AMAZON (us-east-1)'],"['mail.zendesk.com', 'servers.mcsv.net', 'u17235.wl.sendgrid.net', 'amazonses.com', '_spf.google.com']"
+freebitco.in,1024,['AMAZON (us-east-1)'],"['_spf.elasticemail.com', 'amazonses.com']"
+cambridge.org,1024,['AMAZON (us-east-1)'],"['eu._netblocks.mimecast.com', 'email-od.com', 'spf.protection.outlook.com', '_spf.salesforce.com', 'amazonses.com', '_spf.acquia.com', '_spf.cambridge.org']"
+flaticon.com,1024,['AMAZON (us-east-1)'],"['_spf.google.com', 'mail.zendesk.com', 'servers.mcsv.net', 'amazonses.com']"
+gamer.com.tw,1024,['AMAZON (us-east-1)'],"['_spf.google.com', 'amazonses.com']"
+foxsports.com,1024,['AMAZON (us-east-1)'],"['spf.foxsports.com', 'spf.protection.outlook.com', 'amazonses.com', 'spf-00195501.pphosted.com']"
+socialblade.com,1024,['AMAZON (us-east-1)'],['amazonses.com']
+gfycat.com,1024,['AMAZON (us-east-1)'],"['servers.mcsv.net', 'amazonses.com']"
+huffpost.com,1024,['AMAZON (us-east-1)'],"['amazonses.com', '_spf.createsend.com', '_spf.google.com', 'aspmx.sailthru.com', '_ipspf.yahoo.com']"
+geeksforgeeks.org,1024,['AMAZON (us-east-1)'],"['_spf.google.com', 'amazonses.com']"
+airbnb.com,1024,['AMAZON (us-east-1)'],['spf1.airbnb.com']
+pixnet.net,1024,['AMAZON (us-east-1)'],"['aspmx.googlemail.com', 'amazonses.com']"
+klix.ba,1024,['AMAZON (us-east-1)'],"['_spf.google.com', 'aspmx.googlemail.com', 'amazonses.com']"
+flickr.com,1024,['AMAZON (us-east-1)'],"['digitalrivercontent.net', '_spf.google.com', 'amazonses.com']"
+manyvids.com,1024,['AMAZON (us-east-1)'],"['_spf.rocketgate.com', 'mail.zendesk.com', 'amazonses.com', 'secureserver.net', 'spf.mandrillapp.com']"
+blibli.com,1024,['AMAZON (us-east-1)'],"['ncfp.asia', 'amazonses.com']"
+expressvpn.com,1024,['AMAZON (us-east-1)'],"['mail.zendesk.com', 'servers.mcsv.net', 'amazonses.com', '_spf.google.com', 'sendgrid.net']"
+duckduckgo.com,1024,['AMAZON (us-east-1)'],"['mailer.duckduckgo.com', 'spf.protection.outlook.com', 'amazonses.com']"
+myanimelist.net,1024,['AMAZON (us-east-1)'],"['mail.zendesk.com', 'amazonses.com']"
+freepik.com,1024,['AMAZON (us-east-1)'],"['_spf.google.com', 'mail.zendesk.com', 'servers.mcsv.net', 'amazonses.com']"
+tradingview.com,1024,['AMAZON (us-east-1)'],"['servers.mcsv.net', 'emarsys.us', 'amazonses.com', '_spf.google.com', 'emsmtp.us']"
+issuu.com,1024,['AMAZON (us-east-1)'],"['mail.zendesk.com', 'amazonses.com', '_spf.google.com', 'sendgrid.net', 'spf.mandrillapp.com']"
+rapidgator.net,1024,['AMAZON (us-east-1)'],"['_spf.google.com', 'amazonses.com']"
+tokopedia.com,1024,['AMAZON (us-east-1)'],"['servers.mcsv.net', '83025279.ppspf.net', '_spf.salesforce.com', 'amazonses.com', '_spf.google.com']"
+crunchyroll.com,1024,['AMAZON (us-east-1)'],"['servers.mcsv.net', 'amazonses.com', '_spf.google.com', 'sendgrid.net', 'spf.mandrillapp.com', 'stspg-customer.com', 'shops.shopify.com']"
+nba.com,512,"['EC2 (eu-west-1)', 'EC2 (us-east-1)']","['_spf.elasticemail.com', '_spf.sparkpostmail.com', 'mktomail.com', 'spf1.worldapp.com']"
+westernjournal.com,512,"['EC2 (eu-west-1)', 'EC2 (us-east-1)']","['spf.mandrillapp.com', '_spf.robly.com', '_spf.messagegears.net']"
+paypal.com,258,"['EC2 (us-west-2)', 'EC2 (us-west-1)']","['pp._spf.paypal.com', '3ph2._spf.paypal.com', '3ph1._spf.paypal.com', '3ph3._spf.paypal.com', '3ph5._spf.paypal.com', '3ph4._spf.paypal.com']"
+104.com.tw,112,['EC2 (ap-northeast-1)'],"['spf.protection.outlook.com', 'spf.mta.hdems.com']"
+pikabu.ru,63,['EC2 (eu-west-1)'],"['_spf.google.com', 'spf2.esputnik.com', 'sendgrid.net']"
+nvidia.com,41,"['EC2 (us-west-2)', 'EC2 (us-west-1)', 'EC2 (us-east-1)', 'EC2 (eu-west-1)', 'EC2 (eu-central-1)', 'EC2 (us-east-2)']",['_s00005932.autospf.email']
+asos.com,40,"['EC2 (us-west-2)', 'EC2 (eu-west-2)', 'EC2 (us-east-1)', 'EC2 (eu-west-1)', 'EC2 (ca-central-1)', 'EC2 (eu-central-1)', 'EC2 (us-east-2)']","['spf-a.rnmk.com', 'email-od.com', 'spf.protection.outlook.com', 'spf.fusemail.net', 'absorbtraining.com', 'spfip.asos.com', 'em5214.asos.com', 'spf.workfront.com', 'asos.gnatta.com']"
+homedepot.com,31,"['EC2 (eu-west-1)', 'EC2 (us-west-2)', 'EC2 (eu-central-1)', 'EC2 (us-east-2)']","['_spf.google.com', 'spf.protection.outlook.com', 'spf.workfront.com']"
+target.com,27,"['EC2 (us-west-2)', 'EC2 (us-east-2)']","['spf.mandrillapp.com', 'servers.mcsv.net', 'spf.clearslide.com', 'everbridge.net']"
+chegg.com,22,"['EC2 (us-gov-west-1)', 'EC2 (us-west-2)', 'EC2 (us-east-2)']",['spfa.chegg.com']
+qj.com.cn,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+qq.com,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+4399.com,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+58.com,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']","['easeye-edm.com', 'spf.mail.qq.com']"
+pansoso.com,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+fc2.com,16,"['EC2 (us-west-2)', 'EC2 (us-east-1)']","['spf-new-mail1.fc2.com', 'spf-cnat2.fc2.com', 'spf-old-mail2.fc2.com', 'tipalti.com', 'spf-old-mail1.fc2.com']"
+shein.com,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']","['mail.zendesk.com', 'servers.mcsv.net', 'spf.mandrillapp.com', 'veinteractive.biz', 'spf.mail.qq.com']"
+tencent.com,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']","['spf.mail.qq.com', 'spf.mail.tencent.com']"
+mama.cn,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+jb51.net,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+zhibo8.cc,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+segmentfault.com,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']","['u1857844.wl.sendgrid.net', 'spf.mail.qq.com']"
+banggood.com,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+360doc.com,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+rednet.cn,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+jrj.com.cn,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+csdn.net,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+chinaz.com,16,"['EC2 (sa-east-1)', 'EC2 (ap-southeast-1)', 'EC2 (us-east-1)', 'EC2 (ap-southeast-2)', 'EC2 (ap-northeast-1)', 'EC2 (eu-central-1)']",['spf.mail.qq.com']
+lowes.com,15,"['EC2 (us-gov-west-1)', 'EC2 (us-west-2)', 'EC2 (us-east-2)']","['spf.protection.outlook.com', '_spf.qualtrics.com', '_spf-entelo.lowes.com', 'everbridge.net']"

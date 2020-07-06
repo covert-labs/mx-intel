@@ -1,0 +1,6 @@
+domain,gcp_networks_size,gcp_network_labels,includes
+sealedair.com,22,"['Google Cloud (us-east1)', 'Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)']","['spf.protection.outlook.com', 'shops.shopify.com', 'sendgrid.net']"
+mattel.com,22,"['Google Cloud (us-east1)', 'Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)']","['spf_hrc.mattel.com', 'spf.protection.outlook.com', 'o365.connector.mattel.com', 'spf.mandrillapp.com', '_spf.centercode.com', 'shops.shopify.com']"
+leggett.com,22,"['Google Cloud (us-east1)', 'Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)']","['spf-jpmorgan.leggett.com', 'spf-0003de01.pphosted.com', 'spf-lp.leggett.com', 'spfc1.leggett.com', 'spf-sf.leggett.com', 'shops.shopify.com']"
+sands.com,22,"['Google Cloud (us-east1)', 'Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)']","['spf5.sands.com', 'spf4.sands.com', 'spf2.sands.com', 'mktomail.com', 'spf1.sands.com', 'spf3.sands.com']"
+unfi.com,22,"['Google Cloud (us-east1)', 'Google Cloud (northamerica-northeast1)', 'Google Cloud (us-central1)']","['spf.protection.outlook.com', 'es._spf.adp.com', 'spf.boardbooks.com', 'shops.shopify.com', '_spf.fireeyecloud.com']"

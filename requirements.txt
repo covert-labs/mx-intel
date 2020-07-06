@@ -11,4 +11,8 @@ ipython==7.14.0
 notebook==6.0.3
 textdistance==4.2.0
 pyarrow==0.17.1
-
+cidr-trie==3.1.2
+networkx==2.4
+netaddr==0.7.19
+pydot==1.4.1
+pygraphviz==1.5
