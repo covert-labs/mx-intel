@@ -1,0 +1,46 @@
+email_security_providers,domain
+mailchannels,4166
+Mimecast,4015
+Proofpoint,3264
+Symantec,1801
+Barracuda,817
+Cisco Ironport,771
+Protonmail,547
+Solarwinds,532
+Trend Micro,467
+Forcepoint,400
+ZixMail,386
+hornetsecurity,352
+AppRiver,205
+Retarus,150
+Reflexion,125
+SecureMX,115
+Sophos,108
+Mcafee,101
+Fortinet,91
+BAE Systems,78
+Activegate SS,72
+vadesecure,66
+DuoCircle,57
+fusemail,51
+the email laundry,48
+SpamHero,46
+Mailprotector,45
+FireEye,42
+Securence.com,35
+Sonic Wall,23
+Mail in Black,21
+SpamTitan,20
+Microsoft Frontbridge,18
+Trustwave,17
+Censornet,16
+Manage Protect,7
+Exchange Defender,7
+Panda Security,5
+Can-It Pro,4
+Kaspersky,3
+iBarracuda,3
+MXGuarddog,2
+Watchguard,1
+MX Relay,1
+Postini,1

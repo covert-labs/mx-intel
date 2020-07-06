@@ -438,7 +438,7 @@ drpeppersnapplegroup.com
 ameren.com
 mattel.com
 labcorp.com
-tegna.com/
+tegna.com
 starwoodhotels.com
 generalcable.com
 amark.com
@@ -731,7 +731,7 @@ ironmountain.com
 pugetenergy.com
 cmegroup.com
 iac.com
-parpacific.com/
+parpacific.com
 taylormorrison.com
 chiquita.com
 iff.com
@@ -775,7 +775,7 @@ tribunemedia.com
 scansource.com
 corporate.univision.com
 brinker.com
-archrock.com/
+archrock.com
 carters.com
 analog.com
 genesco.com

@@ -23,6 +23,7 @@ email_provider_domains = {
     'frontbridge.com': 'Microsoft Frontbridge',
     'fusemail.net': 'fusemail',
     'futurespam.com': 'hornetsecurity',
+    'hornetsecurity.com': 'hornetsecurity',
     'ibarracuda.nl': 'iBarracuda',
     'ik2.com': 'MXGuarddog',
     'ik2.eu': 'MXGuarddog',
