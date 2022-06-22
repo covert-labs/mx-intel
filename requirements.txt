@@ -2,7 +2,7 @@ cachetools==4.1.0
 geoip2==3.0.0
 matplotlib==3.2.1
 maxminddb==1.5.4
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.3
 requests==2.23.0
 seaborn==0.10.1
