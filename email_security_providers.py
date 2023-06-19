@@ -8,7 +8,78 @@ email_provider_domains = {
     'barracuda.de': 'Barracuda',
     'barracuda.net': 'Barracuda',
     'barracudamoto.co.uk': 'Barracuda',
-    'barracudanetworks.com': 'Barracuda',
+    'Toggle navigation
+Toggle navigation
+ Subnet Calculator
+157.240.229.60
+ 
+Input
+157.240.229.60/32
+CIDR
+157.240.229.60/32
+Input IP
+157.240.229.60
+CIDR IP Range
+157.240.229.60 - 157.240.229.60
+Input Long
+2649810236
+CIDR Long Range
+2649810236 - 2649810236
+Input Hex
+9D.F0.E5.3C
+CIDR Hex Range
+9D.F0.E5.3C - 9D.F0.E5.3C
+IPs in Range
+1
+Mask Bits
+32
+Subnet Mask
+255.255.255.255
+Hex Subnet Mask
+FF.FF.FF.FF
+IP is contained in the following CIDR Blocks
+128.0.0.0/1
+128.0.0.0/2
+128.0.0.0/3
+144.0.0.0/4
+152.0.0.0/5
+156.0.0.0/6
+156.0.0.0/7
+157.0.0.0/8
+157.128.0.0/9
+157.192.0.0/10
+157.224.0.0/11
+157.240.0.0/12
+157.240.0.0/13
+157.240.0.0/14
+157.240.0.0/15
+157.240.0.0/16
+157.240.128.0/17
+157.240.192.0/18
+157.240.224.0/19
+157.240.224.0/20
+157.240.224.0/21
+157.240.228.0/22
+157.240.228.0/23
+157.240.229.0/24
+157.240.229.0/25
+157.240.229.0/26
+157.240.229.32/27
+157.240.229.48/28
+157.240.229.56/29
+157.240.229.60/30
+157.240.229.60/31
+157.240.229.60/32
+ABOUT SUBNET CALCULATOR
+The subnet calculator lets you enter a subnet range (CIDR) and see IP address information about that range You can type your range directly in CIDR notation, or use the optional Mask pull-down:
+
+74.125.227.0/29
+74.125.227.0, then select Optional Mask from dropdown
+This is a useful feature for service providers and network operator who frequently allocate and work with subnets. CIDR stands for Classless Inter-Domain Routing, and refers to the standard of dividing the entire IP address space into smaller networks of variable size.
+
+Your IP is: 102.89.22.165|  Contact Terms & Conditions Site Map API Privacy Phone: (866)-MXTOOLBOX / (866)-698-6652 |  © Copyright 2004-2021, MXToolBox, Inc, All rights reserved. US Patents 10839353 B2 & 11461738 B2
+ 
+burritos@banana-pancakes.com braunstrowman@banana-pancakes.com finnbalor@banana-pancakes.com ricflair@banana-pancakes.com randysavage@banana-pancakes.com': 'Barracuda',
     'borderware.com': 'Watchguard',
     'canit.ca': 'Can-It Pro',
     'clearswift.com':'Clearswift',
