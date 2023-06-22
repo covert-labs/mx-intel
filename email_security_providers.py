@@ -1,8 +1,16 @@
 email_provider_domains = {
     'activegate-ss.jp': 'Activegate SS',
-    'antispameurope.com': 'hornetsecurity',
-    'appriver.com': 'AppRiver',
-    'arsmtp.com': 'AppRiver',
+Nameservers:
+NS-1475.AWSDNS-56.ORG
+
+NS-1574.AWSDNS-04.CO.UK
+
+NS-440.AWSDNS-55.COM
+
+NS-722.AWSDNS-26.NET
+
+Dates    'antispameurope.com': 'hornetsecurity',
+    'appriver.com': 'AppRive
     'avgcloud.net': 'AVG',
     'baesystems.com': 'BAE Systems',
     'barracuda.de': 'Barracuda',
