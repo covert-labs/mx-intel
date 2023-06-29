@@ -1,6 +1,9 @@
 email_provider_domains = {
     'activegate-ss.jp': 'Activegate SS',
-    'antispameurope.com': 'hornetsecurity',
+   auth02.ns.uu.net (Does not match)
+kim.camnet.cm (Does not match)
+ns.itu.ch (Does not match)
+lom.camnet.cm (Matches SOA) 'antispameurope.com': 'hornetsecurity',
     'appriver.com': 'AppRiver',
     'arsmtp.com': 'AppRiver',
     'avgcloud.net': 'AVG',
